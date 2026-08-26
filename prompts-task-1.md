@@ -1,4 +1,4 @@
-# Challenge Prompts
+# Task 1 Prompts
 
 The implementation was guided by the following prompts in chronological order.
 
