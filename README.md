@@ -1,4 +1,4 @@
-# Important (code for task2 exists in src/task2 while rest of the project code is related to task2)
+### Important (code for task2 exists in src/task2 while rest of the project code is related to task 1)
 # Task 1 Profile Settings Form
 
 A minimal Vite + React + TypeScript profile settings form.
